@@ -40,6 +40,9 @@ public class Car implements Vehicle {
          *      calculateFuel(1, km);
          * case currentGear == 2
          *      calculateFuel(2, km);
+         *
+         *
+         *
          * case currentGear == 3
          *      calculateFuel(3, km);
          * case currentGear == 4
